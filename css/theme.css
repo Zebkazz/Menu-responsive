@@ -1,0 +1,51 @@
+[data-theme="Por defecto"] {/*------------------ TEMA BLANCO ------------------------------------------------------*/
+    --cabe_color:#6c64db;
+    --cabe_text:#ffffff;
+/*------------------------------------------- BODY ----------------------------------------------------------*/
+    --body_color:#ffffff;
+    --text_color:#ffffff;
+    --tamaño_iconp:24px;
+    --tamaño_icond:26px;
+    --color_scroll: #a3a1bb;
+    --color_fscroll: #5c54c9;
+/*--------------------------------------- MENU DESPLEGADO ---------------------------------------------------*/
+    --icon_color: #ffffff;
+    --menu_color:#3b3975;
+    --hover_mend:#5c54c9;
+    --select: #5b54b6;
+/*----------------------------------------- MENU PLEGADO ----------------------------------------------------*/
+    --menu_Ple:#524bb6;
+    --icon_menuPle:#ffffff;
+    --select_act:#dfdfdf;
+    --hover_men:#3b3975;
+    --selectd:#4e489e;
+/*----------------------------------------- DATOS USUARIO ---------------------------------------------------*/
+    --usu_color:#6c64db;
+    --text_usu:#ffffff;
+    --icon_usu: #ffffff;
+/*------------------------------------- CONTENERDOR PRINCIPAL -----------------------------------------------*/
+    --fondo_cont:#ffffff;
+    --color_tit:#000;
+    --boton_tit:#bdbae1;
+    --boton_hover:#a8a5ca;
+    --color_tabla:#6c64db;
+    --color_iconOs:#6c64db;
+    --color_icoOsHov:#837aff;
+    --color_bar_bucs:#615ac580;
+    --color_botinfo:#9791ee;
+    --color_input:#fff;
+    --color_linea_input:#ffffff;
+/*------------------------------------------ VISTA INICIO ---------------------------------------------------*/
+    --caja_color:#ececec7e;
+    --borde_caja:#bdbdbd;
+    --borde_hov_caja:#5650a8;
+    --caja_hov_color:#6c64db49;
+    --boton_inicio:#5650a8;
+    --boton_hov_inicio:#6a63c9e3;
+    --iconos_ini:#5650a8;
+    --boton_ayud_hover:#443e8b;
+    --boton_modal:#6c64db;
+/* ----------------------------------------- ESTADO EN LINEA -------------------------------------------- */
+    --color_cirimg: #1ABC9C;
+}
+
